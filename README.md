@@ -39,7 +39,6 @@ cd work/FSPicker/bin
 
 python preprocess.py --pre_configs '/path/to/preprocess/config1.py'
 
-python preprocess.py --pre_configs '/path/to/preprocess/config2.py'
 ```
 
 ---
